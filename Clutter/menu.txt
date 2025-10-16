@@ -1,0 +1,14 @@
+1   Water
+2   Sea
+3   Wet land
+4   Suburban open area
+5   Urban open area
+6   Green land
+7   Forest
+8   High buildings
+9   Ordinary regular buildings
+10  Paralle regular buildings
+11  Irregular large buildings
+12  Irregular buildings
+13  Suburban village
+14  Road Land

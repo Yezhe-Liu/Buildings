@@ -1,0 +1,12 @@
+1 Street
+2 Lroad
+3 Mstreet
+4 Lstreet
+5 Mroad
+6 RoadArea
+7 Groad
+8 Road
+9 Expressway
+10 High_speed_Railway
+11 Railway
+12 River
